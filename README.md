@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo.</h1>
 <h3 align="center">A passionate game developer and system developer from São Paulo, Brazil.</h3>
 
-- 🌱 I’m currently learning **Photon Framework**
+- 🌱 I’m currently learning **JQuery**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/rodrigojose](https://sites.google.com/view/rodrigojose)
 
