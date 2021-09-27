@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/rodrigojose](https://sites.google.com/view/rodrigojose)
 
-- 💬 Ask me about **Unity and C#**
+- 💬 Ask me about **HTML, CSS, Unity or C#**
 
 - 📫 How to reach me **contatorodrigojose123@gmail.com**
 
