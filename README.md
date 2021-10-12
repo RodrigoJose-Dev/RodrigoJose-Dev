@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JQuery**
 
-- 👨‍💻 All of my project games are available at [https://sites.google.com/view/rodrigojose](https://sites.google.com/view/rodrigojose)
+- 👨‍💻 All of my project **games** are available at [https://sites.google.com/view/rodrigojose](https://sites.google.com/view/rodrigojose)
 
 - 💬 Ask me about **HTML, CSS, Unity or C#**
 
