@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo.</h1>
-<h3 align="center">A passionate game developer and system developer from São Paulo, Brazil.</h3>
+<h3 align="center">A passionate web dev and game dev from São Paulo, Brazil.</h3>
 
 - 🌱 I’m currently learning **JQuery**
 
