@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my project **games** are available at [https://sites.google.com/view/rodrigojose](https://sites.google.com/view/rodrigojose)
 
-- 💬 Ask me about **HTML, CSS, Unity or C#**
+- 💬 Ask me about **HTML, CSS, C# or UNITY ENGINE**
 
 - 📫 How to reach me **contatorodrigojose123@gmail.com**
 
@@ -15,4 +15,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> HTML, CSS, JS, REACT, BOOTSTRAP, C#, UNITY ENGINE</p>
+<p align="left"> HTML, CSS, JS, REACT, BOOTSTRAP, C#, UNITY ENGINE, PHOTOSHOP, ADOBE PREMIERE, SONY VEGAS</p>
