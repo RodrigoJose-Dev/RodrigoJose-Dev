@@ -15,4 +15,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> HTML, CSS, JS, REACT, BOOTSTRAP, C#, UNITY ENGINE, PHOTOSHOP, ADOBE PREMIERE, SONY VEGAS</p>
+<p align="left"> HTML, CSS, JS, REACT, BOOTSTRAP, C#, UNITY ENGINE, PHOTOSHOP, FIGMA, ADOBE PREMIERE, SONY VEGAS</p>
