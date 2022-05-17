@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo.</h1>
 <h3 align="center">A passionate front end web dev and game dev from São Paulo, Brazil.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Blender**
 
 - 👨‍💻 All of my project **games** are available at [https://sites.google.com/view/rodrigojose](https://sites.google.com/view/rodrigojose)
 
