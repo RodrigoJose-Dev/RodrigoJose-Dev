@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my project **games** are available at [https://sites.google.com/view/rodrigojose](https://sites.google.com/view/rodrigojose)
 
-- 💬 Ask me about **HTML, CSS, C# or UNITY ENGINE**
+- 💬 Ask me about **C#, UNITY ENGINE, HTML or CSS**
 
 - 📫 How to reach me **contatorodrigojose123@gmail.com**
 
